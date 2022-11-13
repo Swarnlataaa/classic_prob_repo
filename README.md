@@ -31,7 +31,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git switch`  and `git checkout` command:
 
 ```
 git switch -c your-new-branch-name
@@ -40,7 +40,9 @@ git switch -c your-new-branch-name
 For example:
 
 ```
-git switch -c add-alonzo-church
+git switch -c ghpages
+or 
+git checkout -b ghpages
 ```
 
 ## Make necessary changes and commit those changes
