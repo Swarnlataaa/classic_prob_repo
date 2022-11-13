@@ -87,6 +87,10 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 ### the workflow is smthg like
  _fork -> clone -> edit -> pull request_ workflow 
 
++
++
+-
+-
 
 
 
